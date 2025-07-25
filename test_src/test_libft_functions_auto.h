@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
-#include "libft.h"
+#include "../libft.h"
 
 
 void	test_msgbilan(char *nom_fonction, int statut);
