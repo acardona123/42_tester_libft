@@ -11,7 +11,7 @@ fi
 
 if [ "$#" -ne 3 ]
 then
-   echo -e "Erreur: le programme requiert 3 arguments :\n  bash test_libft.sh <directory_containing_the_makefile> <directory_containing_the_c_files> <directory_containing_libft_h\"\n Exemple: bash test_libft.sh \"..\" \"../src\" \"../includes\""
+   echo -e "Erreur: le programme requiert 3 arguments :\n  bash test_libft.sh <directory_containing_the_makefile> <directory_containing_the_c_files> <directory_containing_libft_h>\n Exemple: bash test_libft.sh \"..\" \"../src\" \"../includes\""
    exit 1
 fi
 
