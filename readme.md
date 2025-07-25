@@ -27,7 +27,7 @@ Conformité du format avec la norme 42, réalisé automatiquement avec la Normin
 - `make clean`
 - `make fclean` 
 - `make re`
-> ** ⚠️ Warning **
+> **⚠️ Warning**
 > La conformité du makefile par rapport au exigences du sujet est à vérifier manuellement.
 > Vérifier les flags, que le makefile ne recompile pas inutilement, que la compilation soit faite avec `CC`, l'utiliation de `.PHONY`, etc
 
